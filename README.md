@@ -2,7 +2,7 @@
 
 ## Welcome to My CEH Study Repository
 
-![CEH Logo](link_al_tuo_logo_se_ce_lhai)
+
 
 Hello fellow ethical hackers and security enthusiasts! 👋 Welcome to my repository dedicated to sharing comprehensive notes from my Certified Ethical Hacker (CEH) certification journey. Whether you're currently preparing for the CEH exam or simply looking to deepen your understanding of ethical hacking, I hope you find these notes valuable.
 
